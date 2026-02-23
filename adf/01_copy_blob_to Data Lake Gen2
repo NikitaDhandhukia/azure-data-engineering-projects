@@ -1,1 +1,1 @@
-# Objctive: Build pipeline to move csv file from blob storage to Data lake Gen2 using copy data in ADF 
+# Objctive: Build pipeline to move csv/zip file from blob storage to Data lake Gen2 using copy data in ADF 
